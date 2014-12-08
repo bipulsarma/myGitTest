@@ -9,7 +9,7 @@ import org.apache.axis2.client.ServiceClient;
 import javax.xml.stream.XMLOutputFactory;
 import javax.xml.stream.XMLStreamException;
 import java.io.StringWriter;
-
+//test
 public class ClassifiedClient {
 
 	private static EndpointReference targetEPR = new  EndpointReference("http://localhost:8080/axis2/services/MyService");
